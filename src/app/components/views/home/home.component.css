@@ -1,0 +1,28 @@
+.home {
+    width: 95%;
+    margin: 1rem auto;
+  }
+  
+  .example-button-row button,
+  .example-button-row a {
+    margin-right: 8px;
+  }
+  
+  .example-disabled {
+    display: inline-block;
+  }
+  
+  @media (max-width: 450px) {
+    .home {
+      width: 70%;
+    }
+  }
+  
+  @media (max-width: 760px) {
+    .home {
+      width: 90%;
+    }
+  }
+  
+  
+  

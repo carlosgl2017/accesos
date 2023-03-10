@@ -1,0 +1,11 @@
+#clean
+ng cache clean
+
+#disable
+ng cache disable
+ng cache off
+
+# Disables persistent disk cache for all projects in the workspace.
+#enable
+ng cache enable
+ng cache on
